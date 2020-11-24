@@ -11,11 +11,17 @@ sırasıyla işlemleri yapıp lobok plug in i ideye ekliyoruz. Bu eklemeyi yapma
 
 Pom.xml e aşağıdaki dependency i ekleyeceğiz
 ************************************
+
   <dependency>
+  
       <groupId>org.projectlombok</groupId>
+      
       <artifactId>lombok</artifactId>
+      
       <version>1.18.16</version>
+      
   </dependency>
+  
 *************************************
   
   Anotasyonların tamamı için 
