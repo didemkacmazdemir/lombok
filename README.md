@@ -3,7 +3,7 @@ The main purpose of using Lombok is reducing of boilerplate codes and create mor
 
 !!! Do not forget that you should use java 8 or higher version of java to use Lombok.
 
-1-) intellij e lombok plugin eklemek için file-> settings-> plugis -> from Marketplace Tab -> Type Lombok 
+1-) Adding Lombok plugin to the intellij IDE :  file-> settings-> plugis -> from Marketplace Tab -> Type Lombok 
 
 After added Lombok plugin to the IDE, we can use methods that annotated with lombok. Without plugin we can not use getter and setter methods.
 
