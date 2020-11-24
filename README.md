@@ -10,13 +10,13 @@ intellij e lombok plugin eklemek için file-> settings-> plugis -> marketplace t
 sırasıyla işlemleri yapıp lobok plug in i ideye ekliyoruz. Bu eklemeyi yapmadan getter ve setter methodları calısmaz.
 
 Pom.xml e aşağıdaki dependency i ekleyeceğiz
-
+************************************
   <dependency>
       <groupId>org.projectlombok</groupId>
       <artifactId>lombok</artifactId>
       <version>1.18.16</version>
   </dependency>
-  
+*************************************
   
   Anotasyonların tamamı için 
   https://projectlombok.org/api/lombok/package-summary.html
