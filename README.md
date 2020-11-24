@@ -1,15 +1,14 @@
 # lombok
+The main purpose of using Lombok is reducing of boilerplate codes and create more readable, clean codes.
 
-Lombok kullanımının asıl amacı boilerplate denilen gereksiz kodları anotasyonlar sayesinde ortadan kaldırmak. Okunması daha kolay kodlar oluşturmak.
-"Avoiding Java Boilerplate Code with Project Lombok"
+!!! Do not forget that you should use java 8 or higher version of java to use Lombok.
 
-!!! java8 ve üstü sürümlerde calısmaktadır.
+1-) intellij e lombok plugin eklemek için file-> settings-> plugis -> from Marketplace Tab -> Type Lombok 
 
-intellij e lombok plugin eklemek için file-> settings-> plugis -> marketplace tab ında -> Lombok 
+After added Lombok plugin to the IDE, we can use methods that annotated with lombok. Without plugin we can not use getter and setter methods.
 
-sırasıyla işlemleri yapıp lobok plug in i ideye ekliyoruz. Bu eklemeyi yapmadan getter ve setter methodları calısmaz.
+3-) After plugin, add Lombok dependency to pom.xml
 
-Pom.xml e aşağıdaki dependency i ekleyeceğiz
 ************************************
 
   <dependency>
@@ -24,10 +23,10 @@ Pom.xml e aşağıdaki dependency i ekleyeceğiz
   
 *************************************
   
-  Anotasyonların tamamı için 
+  Entire Annotations of Lombok
   https://projectlombok.org/api/lombok/package-summary.html
   
   
-  Anotasyon kullanım örnekleri için 
+  Examples of Lombok Annotations usage
   https://www.javaguides.net/p/project-lombok-tutorial.html
 
