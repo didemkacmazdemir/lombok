@@ -1,5 +1,5 @@
 # lombok
-lombok example
+
 Lombok kullanımının asıl amacı boilerplate denilen gereksiz kodları anotasyonlar sayesinde ortadan kaldırmak. Okunması daha kolay kodlar oluşturmak.
 "Avoiding Java Boilerplate Code with Project Lombok"
 
