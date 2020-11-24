@@ -7,7 +7,7 @@ The main purpose of using Lombok is reducing of boilerplate codes and create mor
 
 After added Lombok plugin to the IDE, we can use methods that annotated with lombok. Without plugin we can not use getter and setter methods.
 
-3-) After plugin, add Lombok dependency to pom.xml
+2-) After plugin, add Lombok dependency to pom.xml
 
 ************************************
 
